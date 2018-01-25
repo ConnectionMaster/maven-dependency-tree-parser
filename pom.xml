@@ -3,7 +3,7 @@
     <name>Maven Dependency Tree Parser</name>
     <groupId>fr.dutra.tools.maven.deptree</groupId>
     <artifactId>maven-dependency-tree-parser</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.4-SNAPSHOT</version>
     <description>
         This library contains a set of parsers that parse the output of the maven command "mvn dependency:tree", and
         a set of utilities to create human-readable representations of the parsed tree.
@@ -46,7 +46,7 @@
 		<developerConnection>scm:git:ssh://git@github.com/whitesource/maven-dependency-tree-parser.git</developerConnection>
 		<connection>scm:git:ssh://git@github.com/whitesource/maven-dependency-tree-parser.git</connection>
 		<url>git:ssh://git@github.com/whitesource/maven-dependency-tree-parser.git</url>
-	  <tag>maven-dependency-tree-parser-1.0.3</tag>
+	  <tag>HEAD</tag>
   </scm>
 
     <distributionManagement>
