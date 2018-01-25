@@ -1,3 +1,5 @@
+This library was cloned from https://github.com/adutra/maven-dependency-tree-parser
+
 ====
     Copyright 2011 Alexandre Dutra
 
